@@ -1,5 +1,8 @@
-Last Sunday's temperature in Toronto was only 11.11 degrees Celsius. You can feel that it is not warm that day.
+# NLP Notebooks
 
-The summary is unsatisfactory. The model should summarize the temperature and explain why it is not warm. The previous temperature is in Fahrenheit degrees, it will be smaller after converted into Celsius degrees.
+This repository contains notebooks related to Natural Language Processing (NLP) and Text Mining.
 
-"The user would like to know the temperature in Celsius and why it is not warm. To fulfil the user's request, I will summarize as "Last Sunday's temperature in Toronto was only 11.11 degrees Celsius. You can feel that it is not warm that day."
+## Notebooks
+
+### Text Classification
+- [AG News - XLNet](./AG_NEWS_XLNet.ipynb): Text classification on AG News dataset using XLNet.
